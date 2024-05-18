@@ -6,6 +6,7 @@
 // @match        https://www.hidive.com/video/*
 // @grant        none
 // @run-at       context-menu
+// @namespace https://greasyfork.org/users/1303801
 // ==/UserScript==
 
 // WRITTEN WITH CHATGPT
