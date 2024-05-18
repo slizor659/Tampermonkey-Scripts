@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         HIDIVE New GUI Subtitle Editor
-// @namespace    http://tampermonkey.net/
-// @version      1
+// @version      1.1
 // @description  Edit inline CSS within the <style id="ds-vtt-styles"> element to invert text from yellow to white
 // @author       slizor659
 // @match        https://www.hidive.com/video/*
 // @grant        none
 // @run-at       context-menu
-// @run-at       document-idle
 // ==/UserScript==
+
+// WRITTEN WITH CHATGPT
 
 (function() {
     'use strict';
