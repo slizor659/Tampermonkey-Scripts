@@ -20,7 +20,6 @@
         const body = document.body;
         if (html) {
             // Example changes:
-            html.setAttribute('lang', 'en-US');// Change or add attribute
             html.style.zoom = '1';// Modify style directly
 
             // Stop observing after making changes
